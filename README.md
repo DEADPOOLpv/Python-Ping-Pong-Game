@@ -1,8 +1,8 @@
-#Python Ping Pong Game
+# Python Ping Pong Game
 
 This Python code uses the turtle graphics module to create a traditional Pong game. The players use paddles on each side of the screen to deflect a ball back and forth. When the ball travels through a paddle, it scores points.
 
-##Key features:
+## Key features:
 
 Visuals: The turtle module generates a game window with a black backdrop, yellow paddles, and a pink ball.
 Players may move their paddles up and down by using the "W" and "S" keys (left paddle) and the Up and Down arrow keys (right paddle).
