@@ -2,7 +2,7 @@
 
 This Python code uses the turtle graphics module to create a traditional Pong game. The players use paddles on each side of the screen to deflect a ball back and forth. When the ball travels through a paddle, it scores points.
 
-<p><img src="ping_pong.png" alt="Game_Screenshot" width="400"</p>
+<p align="center"><img src="ping_pong.png" alt="Game_Screenshot" width="400"</p>
 
 ## Key features:
 
